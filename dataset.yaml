@@ -1,0 +1,10 @@
+# Train/val/test sets
+path : ../dataset/images
+train : train
+val : val
+test : test
+
+# Classes
+names : 
+  0 : without_mask
+  1 : with_mask
